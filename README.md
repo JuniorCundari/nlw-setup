@@ -1,18 +1,16 @@
 <div align="center">
-  <img width="300px" src="https://user-images.githubusercontent.com/88779658/199625810-3d7a0ead-c6fc-4893-89bb-91f71df75373.svg"/></br>
+  <img width="300px" src="https://user-images.githubusercontent.com/88779658/213887221-baba6481-5077-4012-9762-138240da338c.svg"/></br>
 </div>
 
-# :soccer: Next Level Week - Bolão da Copa 2022 | Rocketseat
+# :sparkles: Next Level Week - Setup | Rocketseat
 
 Next Level Week é um evento online e grátis realizado durante uma semana, evento idealizado pela Rocketseat com o objetivo de levar seus conhecimentos e skills para o próximo nível, neste evento é ensinado o que há de mais novo no mercado de tecnologia e é ministrado por grandes professores e desenvolvedores.
 
 Este projeto está sendo desenvolvido durante a semana do evento.<br /><br />
-O projeto possuí back-end, front-end e a versão mobile, nesta aplicação o usuário poderá criar e buscar um "bolão" para apostar nos resultados dos jogos 
-da copa Qatar 2022.
+O projeto possuí back-end, front-end e a versão mobile, uma ferramenta de acompanhamento de hábitos para o usuário colocar em prática suas resoluções e metas, ou seja, registrar ações e acompanhar a evolução dos novos hábitos que deseja colocar na sua rotina.
 
 <div align="center" >
-  <img width="900px" src="https://user-images.githubusercontent.com/88779658/199626200-6c22bc7a-2d32-4393-9024-18c16528ae5a.png" />
-  <img width="900px" src="https://user-images.githubusercontent.com/88779658/199626192-8efcfbcd-b706-4d56-b860-31487e455beb.png" />
+  <img width="900px" src="https://user-images.githubusercontent.com/88779658/213887275-879f1bd6-ef76-4ab7-93af-f56c837f2121.png" />
 </div>
 
 ## :computer: Linguagens
@@ -27,7 +25,7 @@ da copa Qatar 2022.
   </div>
   
   <div>
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
   
@@ -41,14 +39,14 @@ da copa Qatar 2022.
 ## :dart: Para Utilizar
 Você pode fazer o git clone para clonar o repo em sua máquina.</br>
 ```bash
-git clone https://github.com/JuniorCundari/nlw-copa.git
+git clone https://github.com/JuniorCundari/nlw-setup.git
 ```
 <br />
 Vale destacar que é necessario iniciar o server para que os projetos web e mobile funcione perfeitamente.</br></br>
 Lembre-se de baixar/atualizar as dependências do projeto com:
 
 ```bash
-npm
+npm install
 ```
 
 ou
@@ -79,6 +77,6 @@ expo start
 
 ## :star: Layout
 Você pode visualizar/copiar o layout no figma através desse
-[link.](https://www.figma.com/file/OxY9YyIvkpwZAW6WZewG7C/Bol%C3%A3o-da-Copa-(Community)?node-id=0%3A1)
+[link.](https://www.figma.com/community/file/1195326661124171197)
 
 #neverstoplearning #nlw
