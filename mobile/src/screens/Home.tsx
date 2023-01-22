@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import { useNavigation } from "@react-navigation/native";
+import { useCallback, useState } from "react";
+import { useNavigation, useFocusEffect } from "@react-navigation/native";
 import { Text, View, ScrollView, Alert } from "react-native";
 
 import { HabitDay, DAY_SIZE } from "../components/HabitDay";
@@ -41,9 +41,9 @@ export function Home() {
     }
   }
 
-  useEffect(() => {
+  useFocusEffect(useCallback(() => {
     fetchData();
-  }, []);
+  }, []));
 
   if(loading) {
     return <Loading />
